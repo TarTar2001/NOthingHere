@@ -1,0 +1,4 @@
+cant import module 
+solve by ctrl + shift + p
+then type pyrhon select interpreter 
+then change to olde verstion
